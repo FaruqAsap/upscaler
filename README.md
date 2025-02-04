@@ -11,9 +11,9 @@ Script ini memungkinkan Anda untuk mengonversi video menggunakan FFmpeg dengan p
 
 ## Cara Penggunaan
 
-1. **Clone atau Download Repository ini**:
-   Jika Anda belum memiliki repository ini, clone atau unduh ke komputer Anda:
+1. install dulu ffmpeg di device kalian (caranya browsing di gumgel wokwokw)
+2. clone / download zip dari repo ini
+3. untuk file download.py opsional youtube downloader via youtube link (reso akan mengambil yg tertinggi)
+4. jalankan start.sh
+5. done
 
-   ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
